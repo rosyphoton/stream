@@ -1,7 +1,11 @@
 from django.shortcuts import render_to_response
 from django.http import HttpResponse
 from books.models import Book, Author
+<<<<<<< HEAD
 #one more time to change you, but for the different reasons
+=======
+#add something to prove it?
+>>>>>>> C4
 # Create your views here.
     
 def search(request):
